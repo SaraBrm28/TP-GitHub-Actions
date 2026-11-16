@@ -29,3 +29,8 @@ jobs:
           echo "Nom : Sara"
           echo "Date d'exécution : $(date)"
 
+          
+      - name: fin du TP
+        run: echo "fin du tp"
+
+
